@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    max-width: 800px;
+    margin: auto;
+    border: 2px solid #3498db;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #1a5276;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+p, li {
+    color: #2f3640;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+hr {
+    border: 1px solid #3498db;
+}
+
+.contact {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.experience {
+    margin-top: 10px;
+}
+
+.experience-title {
+    font-weight: bold;
+    color: #154360;
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+b {
+    color: #273746;
+}
